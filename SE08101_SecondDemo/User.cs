@@ -12,5 +12,7 @@ namespace SE08101_SecondDemo
         public string Name { get; set; }
         public string Password { get; set; }
         public string Role { get; set; }
+
+        public int Money { get; set; }
     }
 }

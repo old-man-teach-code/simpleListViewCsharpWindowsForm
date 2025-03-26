@@ -15,3 +15,4 @@ C:\Users\hangoclinh\source\repos\SE08101_SecondDemo\SE08101_SecondDemo\obj\Debug
 C:\Users\hangoclinh\source\repos\SE08101_SecondDemo\SE08101_SecondDemo\obj\Debug\net8.0-windows\SE08101_SecondDemo.genruntimeconfig.cache
 C:\Users\hangoclinh\source\repos\SE08101_SecondDemo\SE08101_SecondDemo\obj\Debug\net8.0-windows\ref\SE08101_SecondDemo.dll
 C:\Users\hangoclinh\source\repos\SE08101_SecondDemo\SE08101_SecondDemo\obj\Debug\net8.0-windows\SE08101_SecondDemo.FormList.resources
+C:\Users\hangoclinh\source\repos\SE08101_SecondDemo\SE08101_SecondDemo\obj\Debug\net8.0-windows\SE08101_SecondDemo.sourcelink.json
